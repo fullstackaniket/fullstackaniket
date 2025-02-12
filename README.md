@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fullstackaniket
-- 👀 I’m interested in Full Stack Python Development
-- 🌱 I’m currently learning Django Rest Framework for Building API
+- I'm working as a Backend Engineer
+- I have more than 3 year of Experience 
 - 📫 You can email me at: shindeaniket8805@gmail.com
 
 <!---
